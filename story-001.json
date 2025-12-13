@@ -1,0 +1,32 @@
+{
+    "id": "story-001",
+    "title": "小兔子",
+    "level": "beginner",
+    "language": "zh",
+    "pinyin": false,
+    "sentences": [
+      {
+        "id": 1,
+        "text": "小兔子住在森林里。"
+      },
+      {
+        "id": 2,
+        "text": "每天它见到新朋友。"
+      },
+      {
+        "id": 3,
+        "text": "它们一起玩球。"
+      },
+      {
+        "id": 4,
+        "text": "晚上，小兔子回家休息。"
+      }
+    ],
+    "audio": {
+      "generated": false,
+      "voice": "zh_female"
+    },
+    "tags": ["animal", "daily life"],
+    "version": "1.0"
+  }
+  
