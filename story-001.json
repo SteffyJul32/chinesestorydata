@@ -4,6 +4,10 @@
     "level": "beginner",
     "language": "zh",
     "pinyin": false,
+    "images": {
+        "thumbnail": "images/thumbnails/story-001.png",
+        "cover": "images/covers/story-001.png"
+    }
     "sentences": [
       {
         "id": 1,
