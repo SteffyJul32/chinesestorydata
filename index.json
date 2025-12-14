@@ -1,12 +1,9 @@
-
-    {
-      "id": "story-001",
-      "title": "小兔子",
-      "level": "beginner",
-      "thumbnail": "images/thumbnails/story-001.png",
-      "cover": "images/covers/story-001.png",
-      "data": "beginner/story-001.json",
-      "tags": ["animal", "forest"]
-    }
-  ]
-}
+[
+  {
+    "id": "story-001",
+    "title": "小兔子",
+    "level": "beginner",
+    "path": "beginner/story-001.json",
+    "image": "https://your-image-url-here.jpg"
+  }
+]
